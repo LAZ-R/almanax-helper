@@ -1,1 +1,1 @@
-# almanax-helper
+# Almanax Helper - 2024 edition
